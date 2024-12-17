@@ -1,0 +1,49 @@
+.sec{
+    background-image: url("../image/pexels-quark-studio-3201920.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgb(89, 255, 0);
+    text-align: center;
+    padding: 50px;
+}
+.kombi{
+    width: 50%;
+    height: 250px;
+    margin-top: 250px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 25%;
+    margin-bottom: 20%;
+}
+.un{
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+    background-color: rgba(0.0.0.0.6) ;
+    border: rgb(89, 255, 0) 3px solid;
+    display: flex;
+    border-radius: 10px;
+}
+.un1{
+    width: 50%;
+    height: 190px;
+   
+}
+.un2{
+    width: 50%;
+    height: 190px;
+    display: flex;
+
+}
+.un1 img{
+    width: 100%;
+    height: 190px;
+}
+.un2 img{
+    width: 100%;
+    height: 190px;
+}

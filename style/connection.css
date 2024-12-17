@@ -1,0 +1,40 @@
+nav{
+    background-color: rgba(86, 84, 227, 0.57);
+    text-align: center;
+}
+nav ol{
+    margin: 0;
+    padding: 0;
+}
+
+nav a{
+    color: rgb(8, 8, 8);
+}
+body{
+    background-image: url("../image/restaurat.jpg");
+    background-size: cover;
+}
+form{
+    width: 500px;
+    margin: auto;
+    background: rgba(0,0,0,6);
+    margin-top: 15%;
+    opacity: 90%;
+}
+label{
+    color: rgb(145, 33, 5);
+    font-size: 250%;
+}
+input{
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+}
+button{
+    border-radius: 6px;
+    color: brown;
+    height: 50%;
+}
+
+
+
